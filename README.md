@@ -67,7 +67,7 @@ The dataset consists of preprocessed chest X-ray images divided into training an
 
 1. **Clone the repository:**
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/velchan15/Classifying_X-Ray_Images_using_PyTorch
 cd Classifying_X-Ray_Images_using_PyTorch
 
 ```
